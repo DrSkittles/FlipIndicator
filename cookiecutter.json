@@ -1,6 +1,6 @@
 {
-    "plugin_name": "PluginName",
-    "plugin_description": "Write a plugin description here",
+    "plugin_name": "FlipIndicator",
+    "plugin_description": "Flip direction indicator!",
     "_copy_without_render": [
         "{{cookiecutter.plugin_name}}/fmt/src/*", 
         "{{cookiecutter.plugin_name}}/fmt/include/fmt/*", 
